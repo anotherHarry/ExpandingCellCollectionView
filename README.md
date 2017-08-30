@@ -14,8 +14,14 @@ func prepare() {
 
 * ### Expanding cell effect
 
+<img src="./Demo/expandingcell.gif" width="400">
+
 
 * ### Support Pull to Refresh
 
+<img src="./Demo/pulltorefresh.gif" width="400">
+
 
 * ### Infinite Scroll
+
+<img src="./Demo/infinitescroll.gif" width="400">
